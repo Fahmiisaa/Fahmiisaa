@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Fahmi Syahputra Anwar
-- 👀 I’m interested in otomotif and F&B
+- 👀 I’m interested in automotif and F&B
 - 🌱 I’m currently learning Mobile App Development and graphic design
 - 💞️ I’m looking to collaborate on learn in mobile app
 - 📫 How to reach me : fahmisa0105@gmail.com
 - 😄 Pronouns: man
-- ⚡ Fun fact: i want to make a cafe with otomotif acsent
+- ⚡ Fun fact: i want to make a cafe with automotive touch
 
 <!---
 Fahmiisaa/Fahmiisaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
